@@ -191,6 +191,4 @@ Iván Galbán Smith <ivan.galban.smith@gmail.com>
 
 Raydel E. Alonso Baryolo <raydelalonsobaryolo@gmail.com>
 
-3rd year of Computer Science
-
-University of Havana, 2015
+4th year Computer Science students, University of Havana
